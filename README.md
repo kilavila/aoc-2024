@@ -11,7 +11,7 @@ I'd recommend trying to solve each puzzle before taking a looking at how I solve
 <details>
 <summary>Day 1: Historian Hysteria</summary>
 
-## Puzzle 1: Calculate the Total Distance
+### Puzzle 1: Calculate the Total Distance
 
 The Chief Historian has gone missing, and the Senior Historians need help to reconcile two lists of historically significant locations (represented by location IDs).
 
@@ -27,7 +27,7 @@ The Chief Historian has gone missing, and the Senior Historians need help to rec
 - Lists: `[3, 4, 2, 1, 3, 3]` and `[4, 3, 5, 3, 9, 3]`
 - Total distance = `2 + 1 + 0 + 1 + 2 + 5 = 11`
 
-## Puzzle 2: Calculate the Similarity Score
+### Puzzle 2: Calculate the Similarity Score
 
 **Task**: For each number in the left list, count how many times it appears in the right list and multiply it by the number. Sum these values to get the similarity score.
 **Steps**:
@@ -37,4 +37,6 @@ The Chief Historian has gone missing, and the Senior Historians need help to rec
 **Example**:
 - Lists: `[3, 4, 2, 1, 3, 3]` and `[4, 3, 5, 3, 9, 3]`
 - Similarity score = `9 + 4 + 0 + 0 + 9 + 9 = 31`
+
+[View more](./day_1)
 </details>
