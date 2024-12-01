@@ -71,7 +71,7 @@ What is the total distance between your lists?
 <details>
 <summary>Solution</summary>
 
-> The puzzle answer was `1603498`.
+The puzzle answer was `1603498`.
 
 [View the code](./puzzle_1.lua)
 </details>
@@ -122,7 +122,7 @@ What is their similarity score?
 <details>
 <summary>Solution</summary>
 
-> The puzzle answer was `25574739`.
+The puzzle answer was `25574739`.
 
 [View the code](./puzzle_2.lua)
 </details>
