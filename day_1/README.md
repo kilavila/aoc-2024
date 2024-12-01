@@ -1,6 +1,6 @@
-# --- Day 1: Historian Hysteria ---
+# Day 1: Historian Hysteria
 
-## --- Part One ---
+### Part One
 
 <details>
 <summary>Solution</summary>
@@ -9,7 +9,7 @@ The puzzle answer was <b>1603498</b>.
 
 [View the code for Part One](./puzzle_1.lua)
 
-## --- Part Two ---
+### Part Two
 
 <details>
 <summary>Solution</summary>
