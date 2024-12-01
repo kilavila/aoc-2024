@@ -7,6 +7,7 @@ I'd recommend trying to solve each puzzle before taking a looking at how I solve
 
 [Advent of Code](https://adventofcode.com/)
 
+___
 
 <details>
 <summary>Day 1: Historian Hysteria</summary>
@@ -37,6 +38,6 @@ The Chief Historian has gone missing, and the Senior Historians need help to rec
 **Example**:
 - Lists: `[3, 4, 2, 1, 3, 3]` and `[4, 3, 5, 3, 9, 3]`
 - Similarity score = `9 + 4 + 0 + 0 + 9 + 9 = 31`
-
-[View more](./day_1)
 </details>
+
+___
