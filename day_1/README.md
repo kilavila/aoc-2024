@@ -4,7 +4,7 @@
 
 <details>
 <summary>Solution</summary>
-The puzzle answer was `1603498`.
+The puzzle answer was <b>1603498</b>.
 </details>
 
 [View the code for Part One](./puzzle_1.lua)
@@ -13,7 +13,7 @@ The puzzle answer was `1603498`.
 
 <details>
 <summary>Solution</summary>
-The puzzle answer was `25574739`.
+The puzzle answer was <b>25574739</b>.
 </details>
 
 [View the code for Part Two](./puzzle_2.lua)
