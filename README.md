@@ -9,4 +9,5 @@ I'd recommend trying to solve each puzzle before taking a looking at how I solve
 
 ___
 
-[Day 1: Historian Hysteria](./day_1)
+- [Day 1: Historian Hysteria](./day_1)
+- [Day 2: Historian Hysteria](./day_2)
