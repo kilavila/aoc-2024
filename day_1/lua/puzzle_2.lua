@@ -1,4 +1,4 @@
-local file = io.popen("cat ./puzzle_input.txt", "r")
+local file = io.popen("cat ../input.txt", "r")
 
 local list_1 = {}
 local list_2 = {}
