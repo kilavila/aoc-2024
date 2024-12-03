@@ -1,4 +1,4 @@
-local file = io.popen("cat ../test.txt", "r")
+local file = io.popen("cat ../input.txt", "r")
 local content = nil
 
 if file then
@@ -17,9 +17,6 @@ local calc = function(str)
 				prev_value = value
 			else
 				local new_value = value * prev_value
-				print()
-				print(match)
-				print(value .. " * " .. prev_value .. " = " .. new_value)
 				result = result + new_value
 				prev_value = nil
 			end
@@ -27,6 +24,8 @@ local calc = function(str)
 	end
 end
 
+content = string.gsub(content, "\n", "")
+content = string.gsub(content, "\r", "")
 content = string.gsub(content, "(don't%(%))", "\nSKIP")
 content = string.gsub(content, "(do%(%))", "\n")
 
@@ -38,6 +37,4 @@ for match in string.gmatch(content, "[^\n]+") do
 	end
 end
 
-print()
-print()
 print("Result: " .. result)
