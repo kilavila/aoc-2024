@@ -11,3 +11,5 @@ ___
 
 - [Day 1: Historian Hysteria](./day_1)
 - [Day 2: Red-Nosed Reports](./day_2)
+- [Day 3: Mull It Over](./day_3)
+- [Day 4: Ceres Search](./day_4)
